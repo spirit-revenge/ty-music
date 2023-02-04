@@ -1,0 +1,1 @@
+<view class="web-browser-wrapper data-v-6dbb8206"><u-navbar vue-id="076d3300-1" class="data-v-6dbb8206" bind:__l="__l"></u-navbar><web-view webview-styles="{{webviewStyles}}" src="{{url}}" class="data-v-6dbb8206"></web-view></view>

@@ -1,0 +1,1 @@
+<view class="data-v-db9d2a10"><view class="c-total data-v-db9d2a10">{{"热门评论("+$root.m0+")"}}</view><block wx:for="{{hotComments}}" wx:for-item="item" wx:for-index="index" wx:key="index"><sq-comment-item vue-id="{{'2c468b59-1-'+index}}" item="{{item}}" class="data-v-db9d2a10" bind:__l="__l"></sq-comment-item></block></view>

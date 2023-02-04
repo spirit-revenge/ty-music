@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "歌手",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image",
+    "u-count-to": "/node-modules/uview-ui/components/u-count-to/u-count-to",
+    "u-tag": "/node-modules/uview-ui/components/u-tag/u-tag",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "u-read-more": "/node-modules/uview-ui/components/u-read-more/u-read-more"
+  }
+}

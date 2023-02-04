@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "q-search-bar": "/components/q/search-bar/q-search-bar",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-tabs-swiper": "/node-modules/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "search-type-com": "/components/search/searchTypeCom",
+    "search-type-song": "/components/search/searchTypeSong",
+    "search-type-play-list": "/components/search/searchTypePlayList",
+    "search-type-vedio": "/components/search/searchTypeVedio"
+  }
+}

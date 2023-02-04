@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["node-modules/uview-ui/components/u-grid-item/u-grid-item"],{"10c7":function(t,e,n){"use strict";n.r(e);var i=n("c97c"),r=n.n(i);for(var c in i)["default"].indexOf(c)<0&&function(t){n.d(e,t,(function(){return i[t]}))}(c);e["default"]=r.a},"30f5":function(t,e,n){"use strict";n.r(e);var i=n("6fb3"),r=n("10c7");for(var c in r)["default"].indexOf(c)<0&&function(t){n.d(e,t,(function(){return r[t]}))}(c);n("831f");var u=n("f0c5"),o=Object(u["a"])(r["default"],i["b"],i["c"],!1,null,"cf784cd2",null,!1,i["a"],void 0);e["default"]=o.exports},"6fb3":function(t,e,n){"use strict";n.d(e,"b",(function(){return i})),n.d(e,"c",(function(){return r})),n.d(e,"a",(function(){}));var i=function(){var t=this.$createElement;this._self._c},r=[]},"831f":function(t,e,n){"use strict";var i=n("c405"),r=n.n(i);r.a},c405:function(t,e,n){},c97c:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var i={name:"u-grid-item",props:{bgColor:{type:String,default:"#ffffff"},index:{type:[Number,String],default:""},customStyle:{type:Object,default:function(){return{padding:"30rpx 0"}}}},data:function(){return{hoverClass:"",col:1,showBorder:!1}},created:function(){this.parent=!1},computed:{width:function(){return 100/Number(this.col)+"%"}},methods:{click:function(){this.$emit("click",this.index),this.parent&&this.parent.click(this.index)}},mounted:function(){this.parent=this.$u.$parent.call(this,"u-grid"),this.parent&&(this.col=this.parent.col,this.showBorder=this.parent.border,this.hoverClass=this.parent.hoverClass)}};e.default=i}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'node-modules/uview-ui/components/u-grid-item/u-grid-item-create-component',
+    {
+        'node-modules/uview-ui/components/u-grid-item/u-grid-item-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("30f5"))
+        })
+    },
+    [['node-modules/uview-ui/components/u-grid-item/u-grid-item-create-component']]
+]);

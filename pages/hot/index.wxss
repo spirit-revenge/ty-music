@@ -1,0 +1,1 @@
+.hot-page-box{padding-bottom:50rpx}.v-card-body{position:relative}.v-card-body .play-bt{width:100%;height:100%;position:absolute;z-index:100;top:0;left:0;display:flex;justify-content:center;align-items:center;background-color:rgba(0,0,0,.1)}.v-card-body .play-bt .icon{color:#ddd;opacity:.7}

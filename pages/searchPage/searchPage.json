@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "q-search-bar": "/components/q/search-bar/q-search-bar",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col"
+  }
+}

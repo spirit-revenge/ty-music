@@ -1,0 +1,1 @@
+.cell-group-box{width:auto;box-sizing:border-box;background-color:#fff}.video-item-box{width:auto;height:auto;margin:20rpx;box-sizing:border-box;border-radius:15rpx 15rpx 0 0;position:relative}.video-item-box .v-image{width:100%;display:block}
